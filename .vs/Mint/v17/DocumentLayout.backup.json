@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "E:\\dev\\Mint\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF1168F7-428F-436D-BB7D-50AE78033777}|Sandbox\\Sandbox.vcxproj|E:\\dev\\Mint\\Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EF1168F7-428F-436D-BB7D-50AE78033777}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\dev\\Mint\\premake5.lua||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:premake5.lua||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52E1B18A-D521-4690-B647-964C5F73887F}|Mint\\Mint.vcxproj|E:\\dev\\Mint\\Mint\\src\\Mint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52E1B18A-D521-4690-B647-964C5F73887F}|Mint\\Mint.vcxproj|solutionrelative:Mint\\src\\Mint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FD15897C-E94C-8A0D-9239-70107E4F060F}|Mint\\Mint.vcxproj|E:\\dev\\Mint\\Mint\\src\\Mint\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD15897C-E94C-8A0D-9239-70107E4F060F}|Mint\\Mint.vcxproj|solutionrelative:Mint\\src\\Mint\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52E1B18A-D521-4690-B647-964C5F73887F}|Mint\\Mint.vcxproj|E:\\dev\\Mint\\Mint\\src\\Mint\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52E1B18A-D521-4690-B647-964C5F73887F}|Mint\\Mint.vcxproj|solutionrelative:Mint\\src\\Mint\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FD15897C-E94C-8A0D-9239-70107E4F060F}|Mint\\Mint.vcxproj|E:\\dev\\Mint\\Mint\\src\\Mint\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD15897C-E94C-8A0D-9239-70107E4F060F}|Mint\\Mint.vcxproj|solutionrelative:Mint\\src\\Mint\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52E1B18A-D521-4690-B647-964C5F73887F}|Mint\\Mint.vcxproj|E:\\dev\\Mint\\Mint\\src\\Mint\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52E1B18A-D521-4690-B647-964C5F73887F}|Mint\\Mint.vcxproj|solutionrelative:Mint\\src\\Mint\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FD15897C-E94C-8A0D-9239-70107E4F060F}|Mint\\Mint.vcxproj|E:\\dev\\Mint\\Mint\\src\\Mint\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD15897C-E94C-8A0D-9239-70107E4F060F}|Mint\\Mint.vcxproj|solutionrelative:Mint\\src\\Mint\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52E1B18A-D521-4690-B647-964C5F73887F}|Mint\\Mint.vcxproj|E:\\dev\\Mint\\Mint\\src\\Mint\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52E1B18A-D521-4690-B647-964C5F73887F}|Mint\\Mint.vcxproj|solutionrelative:Mint\\src\\Mint\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FD15897C-E94C-8A0D-9239-70107E4F060F}|Mint\\Mint.vcxproj|E:\\dev\\Mint\\Mint\\src\\Mint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD15897C-E94C-8A0D-9239-70107E4F060F}|Mint\\Mint.vcxproj|solutionrelative:Mint\\src\\Mint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52E1B18A-D521-4690-B647-964C5F73887F}|Mint\\Mint.vcxproj|E:\\dev\\Mint\\Mint\\src\\Mint\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52E1B18A-D521-4690-B647-964C5F73887F}|Mint\\Mint.vcxproj|solutionrelative:Mint\\src\\Mint\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F4C124E3-60A1-A37E-69B9-2E55D5170AE0}|Sandbox\\Sandbox.vcxproj|E:\\dev\\Mint\\Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4C124E3-60A1-A37E-69B9-2E55D5170AE0}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD15897C-E94C-8A0D-9239-70107E4F060F}|Mint\\Mint.vcxproj|E:\\dev\\Mint\\Mint\\src\\Mint\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD15897C-E94C-8A0D-9239-70107E4F060F}|Mint\\Mint.vcxproj|solutionrelative:Mint\\src\\Mint\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD15897C-E94C-8A0D-9239-70107E4F060F}|Mint\\Mint.vcxproj|E:\\dev\\Mint\\Mint\\src\\Mint\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD15897C-E94C-8A0D-9239-70107E4F060F}|Mint\\Mint.vcxproj|solutionrelative:Mint\\src\\Mint\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD15897C-E94C-8A0D-9239-70107E4F060F}|Mint\\Mint.vcxproj|E:\\dev\\Mint\\Mint\\src\\Mint\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD15897C-E94C-8A0D-9239-70107E4F060F}|Mint\\Mint.vcxproj|solutionrelative:Mint\\src\\Mint\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,33 +54,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EntryPoint.h",
-              "DocumentMoniker": "E:\\dev\\Mint\\Mint\\src\\Mint\\EntryPoint.h",
-              "RelativeDocumentMoniker": "Mint\\src\\Mint\\EntryPoint.h",
-              "ToolTip": "E:\\dev\\Mint\\Mint\\src\\Mint\\EntryPoint.h",
-              "RelativeToolTip": "Mint\\src\\Mint\\EntryPoint.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-23T04:21:35.159Z",
+              "DocumentIndex": 0,
+              "Title": "premake5.lua",
+              "DocumentMoniker": "E:\\dev\\Mint\\premake5.lua",
+              "RelativeDocumentMoniker": "premake5.lua",
+              "ToolTip": "E:\\dev\\Mint\\premake5.lua",
+              "RelativeToolTip": "premake5.lua",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKOSURBVDhPtZTBTlpBFIZ/QTDQVqVCaFCjELQr2ek7GNOGpi5qmtjYtD6JL\u002BDKR6ALm1DSbt0a41INurBpXBCgQhVFEeXS/5/cS7hqTJu0f/JxmXvPnJkz55zBP1W73e6x/zrykTB5RLx68YBapE6OybVeSN0OQ\u002BQlSZM48ZOH1CQ/SI5kSZV0pJ29IwWila0/RLZF8oHIR0fPiFa548zn81nT09NWJBKxPB6P65uN5nwlMQKPfqgnZJx0joCTMTY2huXlZczMzCAQCGBqagoDAwPo6XEdvQY6oscaOAcfIW\u002BJEoJYLIbZ2Vmk02kMDg6iWq2iWCya9xMTEwiFQrAsC2dnZzKXauQTOXaWek4Usp6Yn5/H4uIi4vG4KgEXFxeoVCro6\u002BuD3\u002B9Hq9VCNpvF6uqqzKXv5AXJOzvUzt7YT4TDYZyfnxsHqVTK7EqMjo5iaGjIOFxfX8fBwYHMpV8kQ47vdTgyMoLT01MzYWtrC/39/YhGozg5OcHl5SUymQw2NzdRKpVkLnUcOklxyev14ubmBvV6HUdHR1hbW0O5XEaz2cTu7i42NjbQaDRsa7fuddjb24tgMGjCSyaTJlQl4erqCjs7O6jVari\u002B7jSHS/c6dEpkcnISrD/jWMlRuIlEAgsLCxgfV5XdVbfDtv3E9va2CXV4eNiUipwqEToGlUyhUMD\u002B/r5tbaS5Zr6TlKfkNYlqoLPL5/M4PDw0Icuh2Nvbw8rKCnK5nElal5Qd1WHFjCi13hdyp/VYd9bc3Jy1tLRk8Vxd37r4RkzrOVJjvydq9L\u002B9HMrkIzG3U3dTKuxXNupNLeJq2i7pvJRmXV\u002BK7DMx4d6eoFVU3Gp0J2G3bZzkaYe6YH8S3Y3/Q8Bv/swBV8Rtel0AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-23T05:25:47.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Log.h",
+              "DocumentMoniker": "E:\\dev\\Mint\\Mint\\src\\Mint\\Log.h",
+              "RelativeDocumentMoniker": "Mint\\src\\Mint\\Log.h",
+              "ToolTip": "E:\\dev\\Mint\\Mint\\src\\Mint\\Log.h",
+              "RelativeToolTip": "Mint\\src\\Mint\\Log.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-23T04:45:00.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "E:\\dev\\Mint\\Mint\\src\\Mint\\Log.cpp",
+              "RelativeDocumentMoniker": "Mint\\src\\Mint\\Log.cpp",
+              "ToolTip": "E:\\dev\\Mint\\Mint\\src\\Mint\\Log.cpp",
+              "RelativeToolTip": "Mint\\src\\Mint\\Log.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-23T04:46:15.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntryPoint.h",
+              "DocumentMoniker": "E:\\dev\\Mint\\Mint\\src\\Mint\\EntryPoint.h",
+              "RelativeDocumentMoniker": "Mint\\src\\Mint\\EntryPoint.h",
+              "ToolTip": "E:\\dev\\Mint\\Mint\\src\\Mint\\EntryPoint.h",
+              "RelativeToolTip": "Mint\\src\\Mint\\EntryPoint.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-23T04:21:35.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Mint.h",
               "DocumentMoniker": "E:\\dev\\Mint\\Mint\\src\\Mint.h",
               "RelativeDocumentMoniker": "Mint\\src\\Mint.h",
               "ToolTip": "E:\\dev\\Mint\\Mint\\src\\Mint.h",
               "RelativeToolTip": "Mint\\src\\Mint.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-23T04:15:02.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T04:15:02.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "SandboxApp.cpp",
               "DocumentMoniker": "E:\\dev\\Mint\\Sandbox\\src\\SandboxApp.cpp",
               "RelativeDocumentMoniker": "Sandbox\\src\\SandboxApp.cpp",
@@ -76,12 +123,11 @@
               "RelativeToolTip": "Sandbox\\src\\SandboxApp.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-23T04:14:31.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T04:14:31.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Application.cpp",
               "DocumentMoniker": "E:\\dev\\Mint\\Mint\\src\\Mint\\Application.cpp",
               "RelativeDocumentMoniker": "Mint\\src\\Mint\\Application.cpp",
@@ -89,12 +135,11 @@
               "RelativeToolTip": "Mint\\src\\Mint\\Application.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-23T04:02:41.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T04:02:41.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Application.h",
               "DocumentMoniker": "E:\\dev\\Mint\\Mint\\src\\Mint\\Application.h",
               "RelativeDocumentMoniker": "Mint\\src\\Mint\\Application.h",
@@ -102,12 +147,11 @@
               "RelativeToolTip": "Mint\\src\\Mint\\Application.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-23T04:01:30.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T04:01:30.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Core.h",
               "DocumentMoniker": "E:\\dev\\Mint\\Mint\\src\\Mint\\Core.h",
               "RelativeDocumentMoniker": "Mint\\src\\Mint\\Core.h",
@@ -115,8 +159,7 @@
               "RelativeToolTip": "Mint\\src\\Mint\\Core.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-23T04:01:09.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T04:01:09.421Z"
             }
           ]
         }
